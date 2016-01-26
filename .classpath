@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Christopher/Downloads/bb-cms-admin-9.1.201410.160373.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Christopher/Downloads/bb-platform-9.1.201410.160373.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Christopher/Downloads/bb-taglibs-9.1.201410.160373.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Christopher/Desktop/apache-log4j-1.2.17"/>
+	<classpathentry kind="lib" path="C:/Users/Christopher/Downloads/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Christopher/Downloads/nlog4j-1.2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Christopher/Desktop/org.apache.log4j_1.2.15.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
